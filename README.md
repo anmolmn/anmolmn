@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anmolmn
-- 👀 I’m interested in front-end development, machine-learning and embedded systems programming
+- 👀 I’m interested in front-end development, machine learning and embedded systems programming
 - 📫 How to reach me ...Linkedin profile: https://www.linkedin.com/in/anmol-maini-/
 
 <!---
